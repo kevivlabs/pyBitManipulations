@@ -6,3 +6,5 @@ def int2bin(x:int):
     print(" \n")
 
 int2bin(24)
+
+#yeah use sys.maxsize in py3 , 31 is just a number for demo
